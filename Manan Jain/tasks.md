@@ -48,14 +48,3 @@ Ans. It is used to show changes between commits, commit, and working tree, etc. 
 Ans. Yes, git generally requires a non-empty message because providing a meaningful commit message is part of good development practice and good repository stewardship. The first line of the commit message is used all over the place within git.
 Link to github repository :
 
-
-manan3349/reboot-2.0
-Last updated
-10 hours ago
-
-
-
-
-<https://github.com/manan3349/reboot-2.0|manan3349/reboot-2.0>manan3349/reboot-2.0 | Jun 25th | Added by GitHub
-
-
